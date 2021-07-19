@@ -21,9 +21,9 @@
 </details>
 
 ## About
-In this project the page was built using only JS, like in a ReactJS application. The intuit of the project was to get aquainted with projects using APIs.
+In this project the page was built using only JS, like in a ReactJS application. The intent of the project was to get aquainted with projects using APIs.
 <br />
-There are two projects inside here one where I connect the API using <strong>XMLHttpRequest</strong> and the other project I'm using the newst method <strong>fetch</strong>.
+There are two projects inside here, one where I connect the API using <strong>XMLHttpRequest</strong> and the other project I'm using the newst method <strong>fetch</strong>.
 <br />
 The idea of this project came to me from a blog post made by Tania Rascia, that you can check right [here](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/).
 
